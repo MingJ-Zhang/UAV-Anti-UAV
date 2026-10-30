@@ -27,7 +27,7 @@ This repository contains the official PyTorch implementation, including the mode
 
 ### UAV-Anti-UAV Test 000212
 
-https://github.com/user-attachments/assets/282302dc-030d-4f84-b1ba-a1abb03140d8
+https://github.com/user-attachments/assets/11843d0b-f08f-466e-9839-82cab8c1d00e
 
 [Download the original video](assets/videos/UAV-Anti-UAV_Test_000212_labeled.mp4)
 
