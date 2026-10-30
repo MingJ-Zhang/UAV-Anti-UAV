@@ -31,12 +31,12 @@ This repository contains the official PyTorch implementation, including the mode
 <th width="50%">Additional Demo</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 https://github.com/user-attachments/assets/11843d0b-f08f-466e-9839-82cab8c1d00e
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 https://github.com/user-attachments/assets/f0b47ea4-2865-4a38-a39e-e0bf7d6e4dbe
 
