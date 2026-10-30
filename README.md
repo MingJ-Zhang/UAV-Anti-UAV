@@ -23,6 +23,20 @@ SLA-Track is a vision-language tracker for anti-UAV tracking with simultaneous o
 
 This repository contains the official PyTorch implementation, including the model, training objectives, dataset adapters, online tracker, and benchmark evaluation tools.
 
+## Demo Videos
+
+### UAV-Anti-UAV Test 000212
+
+https://github.com/user-attachments/assets/282302dc-030d-4f84-b1ba-a1abb03140d8
+
+[Download the original video](assets/videos/UAV-Anti-UAV_Test_000212_labeled.mp4)
+
+### Additional Demo
+
+https://github.com/user-attachments/assets/f0b47ea4-2865-4a38-a39e-e0bf7d6e4dbe
+
+[Download the original video](assets/videos/3c2eb9230949d71be8f94894efd6b464.mp4)
+
 ## Overview
 
 <p align="center">
@@ -59,11 +73,6 @@ Paper results on the official test splits. All metrics use a 0–1 scale; higher
 <p align="center">
   <img src="assets/qualitative.png" alt="Qualitative tracking comparisons on UAV-Anti-UAV, including small targets and changing viewpoints" width="100%">
 </p>
-
-## Demo Videos
-
-- [UAV-Anti-UAV Test 000212 — labeled video](assets/videos/UAV-Anti-UAV_Test_000212_labeled.mp4)
-- [Additional demo video](assets/videos/3c2eb9230949d71be8f94894efd6b464.mp4)
 
 ## Quick Start
 
