@@ -13,7 +13,7 @@
 
 **Instance identity, carried all the way to the final box.**
 
-[Overview](#overview) · [Results](#results) · [Quick Start](#quick-start) · [Training](docs/training.md) · [Evaluation](docs/evaluation.md) · [Citation](#citation)
+[Overview](#overview) · [Results](#results) · [Demo Videos](#demo-videos) · [Quick Start](#quick-start) · [Training](docs/training.md) · [Evaluation](docs/evaluation.md) · [Citation](#citation)
 
 </div>
 
@@ -59,6 +59,11 @@ Paper results on the official test splits. All metrics use a 0–1 scale; higher
 <p align="center">
   <img src="assets/qualitative.png" alt="Qualitative tracking comparisons on UAV-Anti-UAV, including small targets and changing viewpoints" width="100%">
 </p>
+
+## Demo Videos
+
+- [UAV-Anti-UAV Test 000212 — labeled video](assets/videos/UAV-Anti-UAV_Test_000212_labeled.mp4)
+- [Additional demo video](assets/videos/3c2eb9230949d71be8f94894efd6b464.mp4)
 
 ## Quick Start
 
