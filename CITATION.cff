@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use SLA-Track, please cite this work."
+type: software
+title: "Beyond Confidence: Identity-Grounded Localization for Dual-Dynamic Anti-UAV Tracking"
+authors:
+  - family-names: Zhang
+    given-names: Mingjie
+  - family-names: Zhou
+    given-names: Yongxu
+  - family-names: Chen
+    given-names: Kai
+  - family-names: Zhang
+    given-names: Xiangyin
+repository-code: "https://github.com/MingJ-Zhang/UAV-Anti-UAV"
+license: MIT
